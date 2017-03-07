@@ -18,7 +18,8 @@ public class Chao extends HttpServlet {
      * @see HttpServlet#HttpServlet()
      */
     public Chao() {
-        super();
+        super(); 
+        System.out.println("chao");
         // TODO Auto-generated constructor stub
     }
 
